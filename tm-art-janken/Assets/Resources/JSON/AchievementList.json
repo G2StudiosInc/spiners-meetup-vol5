@@ -1,0 +1,62 @@
+[
+    {
+        "title": "初めての勝ち",
+        "conditions": "初めて勝利する",
+        "achievementName": "ACHV_01_FIRST_WIN"
+    },
+    {
+        "title": "初めての敗け",
+        "conditions": "初めて敗北する",
+        "achievementName": "ACHV_02_FIRST_LOSE"
+    },
+    {
+        "title": "５勝達成！",
+        "conditions": "5回勝利する",
+        "achievementName": "ACHV_03_WIN_005"
+    },
+    {
+        "title": "１０勝達成！",
+        "conditions": "10回勝利する",
+        "achievementName": "ACHV_04_WIN_010"
+    },
+    {
+        "title": "２５勝達成！",
+        "conditions": "25回勝利する",
+        "achievementName": "ACHV_05_WIN_025"
+    },
+    {
+        "title": "５０勝達成！",
+        "conditions": "50回勝利する",
+        "achievementName": "ACHV_06_WIN_050"
+    },
+    {
+        "title": "１００勝達成！",
+        "conditions": "100回勝利する",
+        "achievementName": "ACHV_07_WIN_100"
+    },
+    {
+        "title": "３連勝達成！",
+        "conditions": "3連勝する",
+        "achievementName": "ACHV_08_WINNING_STREAK_03"
+    },
+    {
+        "title": "５連勝達成！",
+        "conditions": "5連勝する",
+        "achievementName": "ACHV_09_WINNING_STREAK_05"
+    },
+    {
+        "title": "１０連勝達成！",
+        "conditions": "10連勝する",
+        "achievementName": "ACHV_10_WINNING_STREAK_10"
+    },
+    {
+        "title": "１５連勝達成！",
+        "conditions": "15連勝する",
+        "achievementName": "ACHV_11_WINNING_STREAK_15"
+    },
+    {
+        "title": "２０連勝達成！",
+        "conditions": "20連勝する",
+        "achievementName": "ACHV_12_WINNING_STREAK_20"
+    }
+]
